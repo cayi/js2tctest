@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "@google-cloud/firestore": "^7.10.0",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.6.3",
+    "undici-types": "^6.20.0"
+  },
+  "dependencies": {
+    "dotenv-flow": "^4.1.0"
+  }
+}
